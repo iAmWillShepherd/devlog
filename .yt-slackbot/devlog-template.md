@@ -1,4 +1,7 @@
-# devlog {{ date | format ... }} | {{ emoji }} {{ title | ellipsify .. }} | {{ time || LIVE }}
+# Title
+
+Video Title: 
+`devlog <YYYY.MM.DD> | <optional emoji> <Title> | < time | LIVE>`
 
 ## Tasks
 
