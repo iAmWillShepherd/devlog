@@ -1,7 +1,7 @@
 # Title
 
-Video Title: 
-`devlog <YYYY.MM.DD> | <optional emoji> <Title> | < time | LIVE>`
+{{Title}}
+<!-- e.g. `devlog <YYYY.MM.DD> | <optional emoji> <Title> | < time | LIVE>` -->
 
 ## Tasks
 
