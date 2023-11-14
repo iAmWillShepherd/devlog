@@ -1,7 +1,6 @@
-# Title
+# {{title}}
 
-{{Title}}
-<!-- e.g. `devlog <YYYY.MM.DD> | <optional emoji> <Title> | < time | LIVE>` -->
+{{description}}
 
 ## Tasks
 
